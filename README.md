@@ -4,7 +4,6 @@ Eine eigenständige Klick-Demo für das Fuhrparkmanagement der AWO Bremerhaven. 
 
 **Live-Demo:** https://privat-op.github.io/awo-fuhrpark-demo/
 
-> **Wichtig:** Dies ist ein inoffizieller Demo-Prototyp zur Veranschaulichung. Es handelt sich um keine offizielle Anwendung oder Veröffentlichung der AWO Bremerhaven. Marken- und Namensrechte liegen bei den jeweiligen Inhabern. Alle Demo-Daten sind fiktiv.
 
 ## Starten
 
