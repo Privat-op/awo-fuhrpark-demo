@@ -1,0 +1,22 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Lokale Werkzeuge und temporäre Dateien
+.tools/
+.cache/
+*.log
+*.tmp
+node_modules/
+.env
+.env.*
+
+# Test- und Screenshot-Artefakte
+screenshots/
+test-artifacts/
+.playwright-mcp/
+
+# Lokale Export-Archive
+/furhpark.zip
+/awo-fuhrpark-demo.zip
