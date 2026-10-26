@@ -11,14 +11,6 @@ Eine eigenständige Klick-Demo für das Fuhrparkmanagement der AWO Bremerhaven. 
 
 Alternativ `index.html` direkt im Browser öffnen.
 
-Optional mit lokalem Webserver:
-
-```powershell
-cd C:\Users\ianto.beier\awo-fuhrpark-demo
-python -m http.server 5500
-```
-
-Danach `http://localhost:5500` im Browser aufrufen.
 
 ## Funktionen
 
