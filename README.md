@@ -4,6 +4,8 @@ Eine eigenständige Klick-Demo für das Fuhrparkmanagement der AWO Bremerhaven. 
 
 **Live-Demo:** https://privat-op.github.io/awo-fuhrpark-demo/
 
+**Serverversion:** Der serverfähige MVP mit Login, zentraler SQLite-Datenbank, Rollen, Uploads und Docker-Deployment liegt unter [`product/`](product/README.md). Diese Installation startet ohne Beispieldaten.
+
 
 ## Starten
 
